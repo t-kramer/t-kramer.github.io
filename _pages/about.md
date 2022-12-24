@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student @ QUT</a>. MSc ESD.
+subtitle: <a href='#'>PhD Student @ QUT</a>. Building physics engineer.
 
 profile:
   align: right
