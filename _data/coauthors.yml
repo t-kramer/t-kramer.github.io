@@ -1,14 +1,14 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Garcia-Hansen":
+  - firstname: ["Veronica", "V."]
+    url: https://www.qut.edu.au/about/our-people/academic-profiles/v.garciahansen
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Omrani":
+  - firstname: ["Sara", "S."]
+    url: https://www.qut.edu.au/about/our-people/academic-profiles/s.omrani
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Nik":
+  - firstname: ["Vahid", "V.", "Vahid M.", "V. M."]
+    url: https://portal.research.lu.se/en/persons/vahid-nik
 
 "Bach": 
   - firstname: ["Johann Sebastian", "J. S."]
@@ -17,9 +17,9 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Chen":
+  - firstname: ["Dong", "D.", "Zhengdong" ]
+    url: https://scholar.google.com/citations?user=9UYD2owAAAAJ&hl=en
 
 "Schrödinger":
   - firstname: ["Erwin"]
