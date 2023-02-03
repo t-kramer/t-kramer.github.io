@@ -38,7 +38,7 @@
   type: time_table
   contents:
     - title: Teaching | Advanced Building Science, Postgraduate
-      institution: Queensland University of Technology, Brisbane
+      institution: Queensland University of Technology, Brisbane, Australia
       year: Since 2022
       description:
         - Lecture | Physics of high-performance buildings.
@@ -48,10 +48,10 @@
         #     - Sub-description 1.
         #     - Sub-description 2.
     - title: Teaching | Environmental Principles of Architectural Design, Undergraduate
-      institution: Queensland University of Technology, Brisbane
+      institution: Queensland University of Technology, Brisbane, Australia
       year: Since 2020
       description:
-        - Lecture | Introduction to building physics
+        - Lecture | Introduction to building physics.
         - Computer Lab | Introduction to parametric building performance simulation.
         - Tutorials | Climate analysis, thermal comfort, daylighting & energy use.
 
