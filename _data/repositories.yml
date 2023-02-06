@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - t-kramer/climateBOX
+  - t-kramer/revC-calibration-tool
   - t-kramer/comfortDAT
   - t-kramer/comfortSIM
 
