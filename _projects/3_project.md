@@ -1,11 +1,11 @@
 ---
 layout: page
 title: The climateBOX
-description: A open-source, low-cost unit for personal thermal comfort monitoring.
-img: assets/img/climateBOX-section.png
+description: An open-source, low-cost unit for personal thermal comfort monitoring.
+img: assets/img/climateBOXsection.png
 redirect: https://github.com/t-kramer/climateBOX
-importance: 3
-category: work
+importance: 3 # change order here
+category: work # change category here
 ---
 
 Every project has a beautiful feature showcase page.
@@ -29,7 +29,7 @@ To give your project a background in the portfolio page, just add the img tag to
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="climateBOXsection.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,7 +37,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="climateBOXsection.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
