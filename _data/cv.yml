@@ -15,7 +15,7 @@
       institution: Queensland University of Technology, Brisbane, Australia
       year: 2023
       description:
-        Personal thermal comfort in dynamic indoor environments.
+        Predicting personal thermal comfort in dynamic indoor environments.
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -38,7 +38,7 @@
   contents:
     - title: Teaching | Advanced Building Science, Postgraduate
       institution: Queensland University of Technology, Brisbane, Australia
-      year: Since 2022
+      year: Since 2021
       description:
         - Lecture | Physics of high-performance buildings.
         - Computer Lab | Parametric environmental modelling for high-performance design.
@@ -52,7 +52,7 @@
       description:
         - Lecture | Introduction to building physics.
         - Computer Lab | Introduction to parametric building performance simulation.
-        - Tutorials | Climate analysis, thermal comfort, daylighting & energy use.
+        - Tutorials | Climate analysis, thermal comfort, visual comfort & energy use.
 
     - title: Building Physics Engineer
       institution: agn Niederberghaus & Partner GmbH, Ibbenbüren, Germany
