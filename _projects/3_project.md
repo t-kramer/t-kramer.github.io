@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: The climateBOX
+description: A open-source, low-cost unit for personal thermal comfort monitoring.
+img: assets/img/climateBOX-section.png
+redirect: https://github.com/t-kramer/climateBOX
 importance: 3
 category: work
 ---

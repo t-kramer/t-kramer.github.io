@@ -15,8 +15,8 @@
       institution: Queensland University of Technology, Brisbane, Australia
       year: 2023
       description:
-        The thesis deals with football.
-        - Description 2.
+        Personal thermal comfort in dynamic indoor environments.
+        # - Description 2.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -25,14 +25,13 @@
       institution: Lund University, Lund, Sweden
       year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Building physics & energy design
+        - Daylighting
+        - LCA/LCC
     - title: B.Sc. Environmental Engineering
       institution: Technische Universität Braunschweig, Braunschweig, Germany
       year: 2016
-      description:
-        - Description 1.
-        - Description 2.
+
 
 - title: Experience Teaching / Industry
   type: time_table
@@ -77,6 +76,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items: 
+        - Best Presentation Award @ Australasian Building Simulation Conference 2022
     - year: 2021
       items: 
         - Building 4.0 CRC Top-Up Scholarship 
@@ -100,11 +102,11 @@
         - Data analysis.
         - Machine learning.
         - Open-source software development.
-    - title: Post-Occupancy Evaluation.
+    - title: Human-Building Interaction.
       items:
-        - IEQ & thermal comfort monitoring.
+        - IEQ & thermal comfort field studies.
         - Low-cost sensor technnology.
-        - Open-source micro-electronic hardware.
+        - Rapid prototyping.
 
 - title: Other Interests
   type: list
