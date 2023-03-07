@@ -21,3 +21,5 @@ social: true  # includes social icons at the bottom of the page
 Once, I read about a guy named A. Einstein who stated that his only talent was to be 'passionately curious'.
 
 Passionately curious is also what I would call myself. Curious about our future, the way we will live and the advances we hopefully make. Curious about the consequences of the changing climate, the rapid urbanisation and the ongoing digital transformation for future buildings and their indoor spaces.
+
+THIS SITE IS STILL IN IT'S EARLY DAYS, SORRY FOR SOME INCOMPLETE SECTIONS! :)
