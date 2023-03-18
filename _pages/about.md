@@ -22,4 +22,4 @@ Once, I read about a guy named A. Einstein who stated that his only talent was t
 
 Passionately curious is also what I would call myself. Curious about our future, the way we will live and the advances we hopefully make. Curious about the consequences of the changing climate, the rapid urbanisation and the ongoing digital transformation for future buildings and their indoor spaces.
 
-THIS SITE IS STILL IN IT'S EARLY DAYS, SORRY FOR SOME INCOMPLETE SECTIONS! :)
+THIS SITE IS STILL IN ITS EARLY DAYS, SORRY FOR SOME INCOMPLETE SECTIONS! :)
