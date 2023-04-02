@@ -15,7 +15,8 @@
       institution: Queensland University of Technology, Brisbane, Australia
       year: 2023
       description:
-        Predicting personal thermal comfort in dynamic indoor environments.
+        Individual differences in thermal comfort perception in dynamic thermal environments and their
+        implementation into data-driven modelling workflows.
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -52,7 +53,7 @@
       description:
         - Lecture | Introduction to building physics.
         - Computer Lab | Introduction to parametric building performance simulation.
-        - Tutorials | Climate analysis, thermal comfort, visual comfort & energy use.
+        - Tutorials | Climate analysis, visual comfort, thermal comfort & energy use.
 
     - title: Building Physics Engineer
       institution: energum GmbH, Ibbenbüren, Germany
@@ -95,7 +96,7 @@
     - title: Building Science.
       items: 
         - Thermal comfort.
-        - Passive design.
+        - Building physics.
         - Building performance simulation.
     - title: Artificial intelligence & data science.
       items:
@@ -105,8 +106,7 @@
     - title: Human-Building Interaction.
       items:
         - IEQ & thermal comfort field studies.
-        - Low-cost sensor technnology.
-        - Rapid prototyping.
+        - Low-cost sensor & hardware development.
 
 - title: Other Interests
   type: list
