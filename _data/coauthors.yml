@@ -10,28 +10,11 @@
   - firstname: ["Vahid", "V.", "Vahid M.", "V. M."]
     url: https://portal.research.lu.se/en/persons/vahid-nik
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
 "Chen":
   - firstname: ["Dong", "D.", "Zhengdong" ]
     url: https://scholar.google.com/citations?user=9UYD2owAAAAJ&hl=en
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
 
 "Zhou":
   - firstname: ["Jenny", "J.", "Jin"]
