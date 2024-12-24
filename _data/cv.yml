@@ -24,9 +24,9 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: PhD
+    - title: Ph.D. in Building Science & Technology
       institution: Queensland University of Technology, Brisbane, Australia
-      year: 2023
+      year: 2024
       description:
         Individual differences in thermal comfort perception in dynamic thermal environments and their
         implementation into data-driven modelling workflows.
@@ -35,14 +35,14 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: M.Sc. Energy-efficient & environmental building design
+    - title: M.Sc. in Energy-Efficient & Environmental Building Design
       institution: Lund University, Lund, Sweden
       year: 2018
       description:
         - Building physics & energy design
         - Daylighting
         - LCA/LCC
-    - title: B.Sc. Environmental Engineering
+    - title: B.Sc. in Environmental Engineering
       institution: Technische Universität Braunschweig, Braunschweig, Germany
       year: 2016
 
